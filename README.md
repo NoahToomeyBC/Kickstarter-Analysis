@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kickstarting with Excel
 
 ## Overview of Project
