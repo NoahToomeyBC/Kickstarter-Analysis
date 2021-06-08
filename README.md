@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -42,3 +43,6 @@ The data in this dataset is very much quantifiable and gives us a good idea on w
 - What are some other possible tables and/or graphs that we could create?
 
 First we could make a table that compares the projects that raised money above and beyond what their goal was and compare that to the projects that failed. Also, we could group the amount of succesful theater kickstarters by nation to see which would be most appropriate to push out advertising to.
+=======
+
+>>>>>>> 37f727e36b2b1dd542f79ca8cdc82cc40495f6af
